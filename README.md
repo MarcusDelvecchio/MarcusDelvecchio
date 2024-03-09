@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Marcus</h1>
-<h3 align="center">Full-Stack Developer from Toronto</h3>
+<h3 align="center">Software Engineer from Toronto</h3>
 
 ***
 
